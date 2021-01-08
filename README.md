@@ -2,7 +2,7 @@
 
 La idea de esta platadorma es que aprendan qué es el versionado de código.
 
-!https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fdigitalvarys.com%2Fwp-content%2Fuploads%2F2019%2F06%2FGIT-Branchand-its-Operations.png%3Ffit%3D1921%252C1057%26ssl%3D1&f=1&nofb=1
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fdigitalvarys.com%2Fwp-content%2Fuploads%2F2019%2F06%2FGIT-Branchand-its-Operations.png%3Ffit%3D1921%252C1057%26ssl%3D1&f=1&nofb=1)
 
 ## Getting Started
 
